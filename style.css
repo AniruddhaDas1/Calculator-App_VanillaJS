@@ -1,0 +1,108 @@
+body{
+    background: rgb(207,59,60);
+    background: linear-gradient(90deg, rgba(207,59,60,1) 0%, rgba(35,35,201,0.8099614845938375) 42%, rgba(42,34,202,0.6867121848739496) 57%, rgba(0,255,201,1) 100%);
+    color: #fff;
+    align-items: center;
+
+}
+.calcs{
+    display: flex;
+    justify-content: center;
+}
+.stanCalc{
+    margin-right: 20px;
+}
+.scnCalc{
+    margin-right: 20px;
+}
+.loanCalc{
+    margin-right: 20px;
+}
+.calcBody{
+    align-items: center;
+}
+h1{ 
+    align-self: center;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+h3{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    padding-top: 10px;
+    font-family: "Brush Script MT";    
+}
+input{
+    height: 50px;
+    width: 300px;
+    padding: 5px;
+    text-align: end;
+    border: 15px;
+    border-color: black;
+}
+
+.calcBody{
+    background-color: #DDDDDD;
+    color: black;
+    width: 310px;
+}
+table{
+    margin: 2px;
+    padding: 10px;
+}
+tr{
+    margin: 2px;
+}
+
+button{
+    padding: 18px;
+    font-size: large;
+    font-weight: bold;
+}
+.mainTitle{
+    margin-bottom: 15px;
+}
+.btnMin{
+    padding: 20px;
+}
+.btnEval{
+    background-color: #A31ACB;
+    color: #fff;
+    padding-left: 21px;
+    padding-right: 21px;
+}
+.perc{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.plMin{
+    padding-left: 17px;
+    padding-right: 17px;
+}
+.c{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.ce{
+    padding-left: 14px;
+    padding-right: 14px;
+}
+
+.del{
+    padding-left: 12.5px;
+    padding-right: 12.5px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+/* td{
+    margin: 2px;
+    padding: 30px;
+    font-size: large;
+    font-weight: bold;
+} */
