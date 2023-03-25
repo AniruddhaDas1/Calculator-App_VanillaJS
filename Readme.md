@@ -1,6 +1,6 @@
 # Project - Calculator App
 
-![Project-Image](/proj-img.jpg)
+![Project-Image](/proj-img.JPG)
 
 ## Project Details :
 
